@@ -61,7 +61,7 @@ Auto Analytics is a ReactJS based web application with a Django based backend AP
 **4. AUTO API**: A Django based REST API, which executes queries and processes datasets and sends processed information to the frontend client in JSON format, so a user can view it to make informed decisions.
 Visit AUTO-API repo for API docs and Installation details.
 > [AUTOAPI Service](https://engage-autoapi.herokuapp.com)
-Visit [AUTO API](https://github.com/aj-2000/autoapi) Repository for Installation Process and API Docs.
+Visit [AUTO API](https://github.com/yashgaur512/autoapi) Repository for Installation Process and API Docs.
 
 ## **Technologies used :-**
 * **[ReactJS](https://www.djangoproject.com/)**: React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
